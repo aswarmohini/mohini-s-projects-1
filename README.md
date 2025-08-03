@@ -1,1 +1,1 @@
-# mohini-s-projects-1
+# mohini-projects-1
