@@ -47,10 +47,11 @@ reduced data retrieval time by 50%, improving stakeholder decision-making.
 - [Insurance Analytics Dashboard.png](https://github.com/aswarmohini/mohini-s-projects-1/blob/main/Insurance%20Analysis%20Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/aswarmohini/mohini-s-projects-1/blob/main/Insurance_analysis_bi.pbix)
 
-#### 📌 Bank Loan Analysis *(Tableau)*  
-- Loan approval trends, default risk segmentation, and payment behavior breakdown.
-- Analyzed financial data of 80,000+ customer loan records from Excel datasets to uncover patterns and lending risks. 
-- [Bank Loan Analysis Dashboard.png]( https://github.com/aswarmohini/mohini-s-projects-1/blob/main/Bank%20Analysis.png) 🔗 [Click here to view the dataset](https://github.com/aswarmohini/mohini-s-projects-1/blob/main/Bank%20Analysis.xlsx))
+#### 📌 D-Mart Profit Analysis Dashboard *(Excel)*  
+- Designed and built an interactive Profit Dashboard using Excel to analyze D-Mart sales data.
+- Used Pivot Tables and Slicers to analyze weekend-wise profit trends, and overall sales and profit performance.
+- Improved data visibility and decision-making by organizing complex data into a clean, user-friendly dashboard. 
+- [D-Mart Profit Dashboard.png](https://github.com/aswarmohini/mohini-s-projects-1/blob/main/DMart_Profit%20Dashboard.png) 🔗 [Click here to view the dataset](https://github.com/aswarmohini/mohini-s-projects-1/blob/main/Excel%20-%20DMart_Profit%20Dashboard.xlsx)
 
   
 ### 🏅 Certifications
