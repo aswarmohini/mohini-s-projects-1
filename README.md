@@ -44,7 +44,7 @@
 - Interactive report to monitor policy-wise revenue & agent performance across regions.
 -  Designed Power BI dashboard on insurance data visualizing KPIs like cross-sell, new business, and renewal; resulted in a 25% improvement in collection rates and 
 reduced data retrieval time by 50%, improving stakeholder decision-making. 
-- [Insurance Analytics Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Insurance%20Analysis%20Dashboard.png)
+- [Insurance Analytics Dashboard.png](https://github.com/aswarmohini/mohini-s-projects-1/blob/main/Bank%20Analysis.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
 #### 📌 Bank Loan Analysis *(Tableau)*  
