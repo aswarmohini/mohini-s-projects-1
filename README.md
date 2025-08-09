@@ -1,11 +1,11 @@
- <h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
+<h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
 <h3 align="center">💼 Data Analyst | SQL | Power BI | Python | Tableau | Excel</h3>
 
 ---
 
 ### 📌 About Me
 
-🎓 Data Analyst with 1+ year of hands-on experience in:
+🎓 Data Analyst with 10+ Months of hands-on experience in:
 - SQL, Power BI, Tableau, Excel, and Python  
 - KPI Analysis, Dashboarding, Data Cleaning, and Business Intelligence
 
@@ -16,15 +16,15 @@
 ### 💼 Work Experience
 
 **Data Analyst Intern – AI Variant, Pune**  
-📅 *March 2024 – March 2025*  
+📅 *Aug 2024 – May 2025*  
 
 **Project 1: Insurance Analytics**  
-- Built Power BI dashboards to track KPIs like cross-sell, new business & renewals  
-- Reduced data retrieval time by 50% and improved collection rates by 25%  
+- Built Power BI dashboards to track KPIs like cross-sell, new business & renewals.  
+- Reduced data retrieval time by 50% and improved collection rates by 25%.  
 
 **Project 2: Bank Loan Analysis**  
-- Analyzed 48K+ customer records to uncover default patterns  
-- Enhanced risk profiling efficiency by 30% using Power BI dashboards  
+- Analyzed 80K+ customer records to uncover default patterns.
+- Enhanced risk profiling efficiency by 30% using Power BI dashboards.  
 
 ---
 
@@ -39,18 +39,20 @@
 
 ### 📊 Featured Projects
 
-#### 📌 Insurance Analytics Dashboard *(Power BI)*  
-- Interactive report to monitor policy-wise revenue & agent performance across regions
-- ![Dashboard Screenshot](Blinkit_Dashboard.png)
--  
+#### 📌 Insurance Analytics Dashboard *(Excel & Power BI)*  
+-  Compiled data from the client in raw Excel format or from SharePoint; increased analysis by 50% using pivot table & VLOOKUP.
+- Interactive report to monitor policy-wise revenue & agent performance across regions.
+-  Designed Power BI dashboard on insurance data visualizing KPIs like cross-sell, new business, and renewal; resulted in a 25% improvement in collection rates and 
+reduced data retrieval time by 50%, improving stakeholder decision-making. 
+- [Insurance Analytics Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Insurance%20Analysis%20Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
-#### 📌 Bank Loan Analysis *(Power BI & Excel)*  
-- Loan approval trends, default risk segmentation, and payment behavior breakdown  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
+#### 📌 Bank Loan Analysis *(Tableau)*  
+- Loan approval trends, default risk segmentation, and payment behavior breakdown.
+- Analyzed financial data of 80,000+ customer loan records from Excel datasets to uncover patterns and lending risks. 
+- [Bank Loan Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Bank%20Loan%20Analysis%20Dashboard.png) 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
 
- 
-
+  
 ### 🏅 Certifications
 
 - ✅ Data Analytics Certification – ExcelR  
