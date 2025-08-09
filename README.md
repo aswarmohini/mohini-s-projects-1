@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
+<h1 align="center">👋 Hi, I'm Mohini Aswar</h1>
 <h3 align="center">💼 Data Analyst | SQL | Power BI | Python | Tableau | Excel</h3>
 
 ---
@@ -57,18 +57,15 @@ reduced data retrieval time by 50%, improving stakeholder decision-making.
 ### 🏅 Certifications
 
 - ✅ Data Analytics Certification – ExcelR  
-- ✅ SQL Certification – HackerRank  
 - ✅ Power BI Certification – ExcelR  
-- ✅ Tata Data Visualization – Forage  
 - ✅ Insurance Analysis Internship – AI Variant  
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: [patilchandradip1300@gmail.com](mailto:patilchandradip1300@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chandradippatil)  
-- 💻 [GitHub](https://github.com/chandradippatil)  
+- 📧 Email: [mohininaswar@gmail.com](mailto:mohininaswar@gmail.com)    
+- 💻 [GitHub](https://github.com/aswarmohini)  
 - 🌐 Portfolio (Coming Soon)
 
 ---
